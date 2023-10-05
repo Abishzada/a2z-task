@@ -19,6 +19,6 @@ function findLongestWordWithMostVowels(sentence) {
     return longestWord;
 }
 
-const sentence = "Smart people learn from everything and everyone, average people from their Experience, experience stupid people already, have all the answers (Socrates)";
+const sentence = "Smart people learn from everything and everyone, average people from their experience stupid people already, have all the answers (Socrates)";
 const longestWord = findLongestWordWithMostVowels(sentence);
 console.log(longestWord); 
